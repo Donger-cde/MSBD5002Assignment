@@ -1,11 +1,12 @@
 # MSBD5002
-## Homework1（5002hw1）
-HashTree
+## Homework1
+hashtree.py
+fptree.py
 ## Homework2（5002hw2）
 ### Task Description
 The dataset come from 1994 Census database. Prediction task is to determine whether a person makes over 50K a year.
 ### Data Description
-1. Feature 
+#### 1. Feature 
 #### age: 
 The age of the individual; this attribute is continuous.
 #### work-class: 
@@ -36,7 +37,7 @@ capital losses recorded; This attribute is continuous.
 Hours worked per week; This attribute is continuous. 
 #### native-country: 
 label person’s country, involving United-States, Cambodia, England, Puerto-Rico, Canada, Germany, Outlying-US(Guam-USVI-etc), India, Japan, Greece, South, China, Cuba, Iran, Honduras, Philippines, Italy, Poland, Jamaica, Vietnam, Mexico, Portugal, Ireland, France, Dominican-Republic, Laos, Ecuador, Taiwan, Haiti, Columbia, Hungary, Guatemala, Nicaragua, Scotland, Thailand, Yugoslavia, El-Salvador, Trinadad&Tobago, Peru, Hong, Holand-Netherlands.
-2. Labels：
+####  2. Labels：
 #### 0: 
 means a person makes no more than 50K a year, i.e. <=50k 
 #### 1: 
